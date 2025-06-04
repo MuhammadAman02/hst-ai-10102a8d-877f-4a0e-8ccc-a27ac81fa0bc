@@ -6,5 +6,9 @@
   {
     "role": "user",
     "content": "The deployment failed with the following error from Fly.io:\n\n#8 1.889 npm error code EINVALIDPACKAGENAME\n#8 1.889 npm error Invalid package name \"@stripe/stripe-js \" of package \"@stripe/stripe-js @latest\": name cannot contain leading or trailing spaces; name can only contain URL-friendly characters.\n#8 1.892 npm notice\n\nPlease fix the issue."
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n#8 3.060 npm error code EINVALIDPACKAGENAME\n#8 3.060 npm error Invalid package name \"@stripe/stripe-js \" of package \"@stripe/stripe-js @latest\": name cannot contain leading or trailing spaces; name can only contain URL-friendly characters.\n#8 3.063 npm notice\n\nPlease fix the issue."
   }
 ]
